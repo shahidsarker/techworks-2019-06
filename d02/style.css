@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+
+form {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: #47cf73;
+}
+
+.foods {
+  font-family: "Lobster", cursive;
+  font-size: 5em;
+}
+
+.foods li {
+  border: 5px solid black;
+  padding: 15px 30px 20px 5px;
+  /* TRBL: Top Right Bottom Left  */
+  margin: 15px 30px 20px 5px;
+  /* margin-top: 20px;
+  margin-bottom: 2px; */
+}
+
+img.placeholder {
+  display: inline;
+  border: 5px solid tomato;
+  padding: 10px;
+  height: 500px;
+  width: 250px;
+}
+
+.content {
+  background-color: blue;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+#may {
+  background-color: green;
+}
+
+#june {
+  background-color: purple;
+}
+
+span.highlight {
+  background-color: #d4cdf4;
+}
+
+.sidebar {
+  width: 200px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar li {
+  border: 1px solid tomato;
+  padding: 5px;
+}
