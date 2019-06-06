@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Lato&display=swap');
+
+.container {
+  max-width: 800px;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Anton';
+}
+
+.section {
+  border: 1px solid green;
+  padding: 20px;
+}
+
+#welcome {
+  font-family: 'Lato';
+}
+
+p#blurb {
+  font-size: 24px;
+}
+
+.exp_item {
+  margin: 10px 20px;
+
+}
+
+
+.navigation {
+height: 50px;
+}
+
+.navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.navigation li {
+  display: inline;
+  padding: 5px; 
+  margin-left: 10px;
+  border: 1px solid tomato;
+}
+
+
+#projects ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.project_list  {
+  border: 1px solid black;
+}
