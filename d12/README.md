@@ -1,3 +1,5 @@
+# Day 12: Afternoon
+
 ## DOM
 
 Document Object Model
