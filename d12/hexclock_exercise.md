@@ -1,6 +1,6 @@
 # Hex Clock Exercise
 
-```javascript=
+```javascript
 const time = () => {
   // use the built in Date method
   let date = new Date();
