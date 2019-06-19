@@ -11,7 +11,7 @@ Document Object Model
 * Access `document` using DevTools
 * `console.log(document)` allows you to access the `document` object
 
-```javascript=
+```javascript
 // returns the document object itself
 console.log(document);
 
@@ -21,7 +21,7 @@ document.bgColor = "blue";
 
 ## DOM: Functions
 
-```javascript=
+```javascript
 // create a paragraph element
 let myPara = document.createElement("P");
 
@@ -36,7 +36,7 @@ document.body.appendChild(myPara);
 
 Make your page interactive:
 
-```javascript=
+```javascript
 // create a DIV element
 let myDiv = document.createElement("DIV");
 
@@ -64,7 +64,7 @@ myDiv.addEventListener("mousemove", event => {
 
 ## Modify Code to Make It Functional
 
-```javascript=
+```javascript
 // create a function to turn any element fullscreen
 const fullScreen = element => {
   let newElement = document.createElement(element);
