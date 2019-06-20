@@ -2,6 +2,8 @@
 
 Class repository containing lecture notes and code from in-class exercises.
 
+**PLEASE DO NOT FORK THIS REPO UNLESS YOU WANT TO SUGGEST CHANGES** _Star_ or _Watch_ it instead to keep track of it.
+
 # Resources and Recommendations
 
 Note: Some resources may have paid/premium options. Please utilize the free option first before considering spending any money. I haven't spent any money on the resources I've listed.
@@ -24,6 +26,11 @@ If you have any suggestions for the list, feel free to create a pull request. ;)
 
 - [freeCodeCamp](https://www.freecodecamp.org/) An excellent source of tutorials on various web technologies. They also have great YouTube videos and Medium articles on various topics.
 - [Codecademy](https://www.codecademy.com/) Basic tutorials to get started with coding. I often use this as an refresher for technologies I haven't used in a while.
+
+## Web Development
+
+- [MDN web docs](https://developer.mozilla.org/en-US/) HTML, CSS, and JS documentation
+- [Unsplash](https://unsplash.com/) Free stock images to use as placeholders for your sites
 
 ## Miscellaneous
 
