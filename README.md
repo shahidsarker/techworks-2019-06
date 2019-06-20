@@ -2,7 +2,7 @@
 
 Class repository containing lecture notes and code from in-class exercises.
 
-**PLEASE DO NOT FORK THIS REPO UNLESS YOU WANT TO SUGGEST CHANGES** _Star_ or _Watch_ it instead to keep track of it.
+Please **DO NOT FORK** this repo unless you want to suggest changes. **Star** or **Watch** it to keep track of any updates I make.
 
 # Resources and Recommendations
 
